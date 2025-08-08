@@ -1,0 +1,190 @@
+.reservation-modal .modal__content {
+max-width: 800px;
+width: 95vw;
+}
+
+.reservation-content {
+padding: var(--space-32);
+}
+
+.calendar-container {
+background: var(--color-surface);
+border-radius: var(--border-radius-lg);
+padding: var(--space-24);
+margin: var(--space-24) 0;
+}
+
+.calendar-header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: var(--space-20);
+}
+
+.calendar-header h3 {
+margin: 0;
+color: var(--primary-color);
+font-size: 1.2rem;
+}
+
+.calendar-grid {
+display: grid;
+grid-template-columns: repeat(7, 1fr);
+gap: var(--space-4);
+margin-bottom: var(--space-20);
+}
+
+.calendar-day,
+.calendar-day-header {
+text-align: center;
+padding: 8px;
+border-radius: var(--radius-base);
+font-size: 0.9rem;
+}
+
+.calendar-day {
+aspect-ratio: 1;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: var(--font-weight-medium);
+transition: transform var(--duration-normal) var(--ease-standard), border-color var(--duration-normal) var(--ease-standard), background var(--duration-normal) var(--ease-standard);
+border: 2px solid transparent;
+}
+
+.calendar-day.available {
+background: var(--light-color);
+color: var(--accent-color);
+cursor: pointer;
+}
+
+.calendar-day.available:hover {
+background: rgba(164, 214, 94, 0.2);
+border-color: var(--primary-color);
+transform: scale(1.05);
+}
+
+.calendar-day.unavailable {
+background: #ffebee;
+color: #c62828;
+cursor: not-allowed;
+}
+
+.calendar-day.selected {
+background: var(--primary-color);
+color: #fff;
+transform: scale(1.08);
+box-shadow: var(--hover-shadow);
+}
+
+.calendar-day.in-range {
+background: rgba(164, 214, 94, 0.3);
+color: var(--accent-color);
+}
+
+.calendar-day.past {
+background: #f5f5f5;
+color: #ccc;
+cursor: not-allowed;
+}
+
+.calendar-legend {
+display: flex;
+justify-content: center;
+gap: var(--space-24);
+margin-top: var(--space-16);
+}
+
+.legend-item {
+display: flex;
+align-items: center;
+gap: var(--space-8);
+font-size: 0.9rem;
+}
+
+.dot {
+width: 12px;
+height: 12px;
+border-radius: 50%;
+}
+
+.dot.available { background: var(--light-color); border: 2px solid var(--primary-color); }
+.dot.unavailable { background: #ffebee; border: 2px solid #c62828; }
+.dot.selected { background: var(--primary-color); }
+
+/* Cenová kalkulace */
+.price-calculator {
+background: var(--light-color);
+padding: var(--space-24);
+border-radius: var(--border-radius-lg);
+border-left: 4px solid var(--primary-color);
+}
+
+.price-calculator h4 {
+margin-bottom: var(--space-16);
+color: var(--accent-color);
+}
+
+.price-breakdown { margin-bottom: var(--space-24); }
+
+.price-line {
+display: flex;
+justify-content: space-between;
+margin-bottom: var(--space-12);
+padding-bottom: var(--space-8);
+}
+
+.total-line {
+border-top: 2px solid var(--primary-color);
+margin-top: var(--space-16);
+padding-top: var(--space-16);
+font-size: 1.1rem;
+color: var(--primary-color);
+}
+
+/* Toast notifikace */
+.toast-container {
+position: fixed;
+top: var(--space-20);
+right: var(--space-20);
+z-index: 3000;
+display: flex;
+flex-direction: column;
+gap: var(--space-12);
+}
+
+.toast {
+background: var(--primary-color);
+color: #fff;
+padding: var(--space-16) var(--space-20);
+border-radius: var(--radius-base);
+box-shadow: var(--hover-shadow);
+display: flex;
+align-items: center;
+gap: var(--space-12);
+min-width: 300px;
+transform: translateX(100%);
+opacity: 0;
+transition: transform var(--duration-normal) var(--ease-standard), opacity var(--duration-normal) var(--ease-standard);
+cursor: pointer;
+}
+
+.toast.show {
+transform: translateX(0);
+opacity: 1;
+}
+
+.toast.success { background: var(--success-color); color: var(--color-btn-primary-text); }
+.toast.error { background: var(--error-color); }
+.toast.warning { background: var(--warning-color); }
+.toast .toast-icon { font-size: 1.2rem; }
+.toast .toast-message { flex: 1; font-weight: var(--font-weight-medium); }
+
+/* Responsive */
+@media (max-width: 768px) {
+.calendar-grid { gap: var(--space-2); }
+.calendar-day { font-size: 0.8rem; }
+.calendar-legend { flex-direction: column; gap: var(--space-12); align-items: center; }
+.price-line { font-size: 0.95rem; }
+.toast { min-width: 260px; right: var(--space-16); }
+}

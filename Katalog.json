@@ -1,0 +1,325 @@
+[
+  {
+    "name": "BEZVA RACE",
+    "dimensions": null,
+    "price_czk": null,
+    "price_note": "INDIVIDUÁLNÍ CENA",
+    "description": "Nejdelší nafukovací dráha v ČR, 100metrová dráha, možnost i zkrácené verze (dráha má několik dílů).",
+    "images": []
+  },
+  {
+    "name": "BAGR SE SKLUZAVKOU",
+    "dimensions": "8 x 3 x 4,5 m",
+    "price_czk": 8900,
+    "description": "Skákací hrad se skluzavkou. Do dojezdové části skluzavky je možné umístit plastové míčky.",
+    "images": []
+  },
+  {
+    "name": "VODNÍ SVĚT SE SKLUZAVKOU",
+    "dimensions": "7,6 x 4 x 4,5 m",
+    "price_czk": 8900,
+    "description": "Skákací hrad se skluzavkou na přední části hradu, vedle vstupu. Možnost plastových míčků v dojezdové části.",
+    "images": []
+  },
+  {
+    "name": "MONSTER TRUCK",
+    "dimensions": "6 x 4 x 4,8 m",
+    "price_czk": 7900,
+    "description": "Nafukovací skákací hrad v podobě Monster Trucku.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ HRAD PRINCEZNA ELSA",
+    "dimensions": "4 x 4 m",
+    "price_czk": 6900,
+    "description": "Skákací hrad pro nejmenší princezny.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ HOOP",
+    "dimensions": "4 x 3 x 1,8 m",
+    "price_czk": 4900,
+    "description": "Hod na nafukovací cíl pomocí kroužků.",
+    "images": []
+  },
+  {
+    "name": "PAVOUČÍ MUŽ",
+    "dimensions": "5 x 4 m",
+    "price_czk": 7900,
+    "description": "Skákací hrad pro malé superhrdiny.",
+    "images": []
+  },
+  {
+    "name": "SAFARI PARK",
+    "dimensions": "11 x 3,3 x 4,5 m",
+    "price_czk": 11900,
+    "description": "Nafukovací dráha plná překážek napříč safari.",
+    "images": []
+  },
+  {
+    "name": "AKTIVNÍ CENTRUM",
+    "dimensions": null,
+    "price_czk": 6900,
+    "description": "Baseball, Basketball či Rugby? Zjisti, jak dobrou máš mušku.",
+    "images": []
+  },
+  {
+    "name": "GLADIÁTOR ARÉNA",
+    "dimensions": "4 x 5 m",
+    "price_czk": 6900,
+    "description": "Utkej se v zápasu se svým protivníkem.",
+    "images": []
+  },
+  {
+    "name": "HOD SEKEROU",
+    "dimensions": "4,8 x 3 x 3,1 m",
+    "price_czk": 6900,
+    "description": "Který ze dvou hráčů se přiblíží svou trefou nejblíže středu?",
+    "images": []
+  },
+  {
+    "name": "BUNGEE RUNNING",
+    "dimensions": "7 x 2,5 m",
+    "price_czk": 8900,
+    "description": "Utkej se se soupeřem v co nejvzdálenějším běhu. Nebude to jednoduché, protože ti brání odpudivá síla.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ BILLIARD",
+    "dimensions": "7,8 x 4,8 x 0,45 m",
+    "price_czk": 7900,
+    "description": "Obří billiard, místo tága použij vlastní nohy.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ ELEKTRICKÝ BÝK",
+    "dimensions": "5 x 5 m",
+    "price_czk": 13900,
+    "description": "Bezva rodeo na divokém býkovi, který nezná soucitu. Udrž se co nejdéle.",
+    "images": []
+  },
+  {
+    "name": "SKLUZAVKA KLAUN",
+    "dimensions": "9 x 7 x 7 m",
+    "price_czk": 13900,
+    "description": "Dvě obří skluzavky v podobě klauna.",
+    "images": []
+  },
+  {
+    "name": "PIRÁTSKÁ LOĎ SE SKLUZAVKOU",
+    "dimensions": "7 x 4 m",
+    "price_czk": 10900,
+    "description": "Nafukovací skluzavka pro malé piráty.",
+    "images": []
+  },
+  {
+    "name": "AKTIVNÍ CENTRUM LEDOVÉ KRÁLOVSTVÍ",
+    "dimensions": "5 x 5 m",
+    "price_czk": 7900,
+    "description": "Zábava pro malé princezny v nafukovacím ledovém království.",
+    "images": []
+  },
+  {
+    "name": "ZORBINGOVÉ KOULE",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks (min. odběr 4 ks)",
+    "description": "Adrenalin a zábava díky zorbingovým koulím. Zahraj si fotbal nebo se utkej proti svému protivníkovi.",
+    "images": []
+  },
+  {
+    "name": "BÍLÝ HRAD",
+    "dimensions": "5 x 5 m",
+    "price_czk": 7900,
+    "description": "Bílý skákací hrad vhodný na svatbu i jiné akce.",
+    "images": []
+  },
+  {
+    "name": "VÍTĚZNÝ OBLUK START - CÍL",
+    "dimensions": "15 x 6 x 5 m",
+    "price_czk": 14900,
+    "description": "Nafukovací oblouk start - cíl. Možnost naplnění oblouku pěnou.",
+    "images": []
+  },
+  {
+    "name": "OBŘÍ KLOUZAČKA",
+    "dimensions": "20 x 11 m",
+    "price_czk": null,
+    "price_note": "INDIVIDUÁLNÍ CENA",
+    "description": "Barevná klouzačka s 6ti dráhami. Dopadiště je možné naplnit vodou.",
+    "images": []
+  },
+  {
+    "name": "LÁVA S KAMENY",
+    "dimensions": "6 x 4 m",
+    "price_czk": 4900,
+    "price_note": "cena za ks (6 ks nafukovacích matrací)",
+    "description": "Nafukovací matrace simulující lávu s kameny po kterých se musí přejít.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ ZVÍŘÁTKA",
+    "dimensions": null,
+    "price_czk": 900,
+    "price_note": "cena za ks",
+    "description": "Spoj se se svým týmem pomocí nafukovacích zvířátek a ukaž, jak zvládnete spolupracovat.",
+    "images": []
+  },
+  {
+    "name": "OBŘÍ ŽÍŽALA",
+    "dimensions": "4,3 m x 0,4 m",
+    "price_czk": 900,
+    "price_note": "cena za ks",
+    "description": "Týmový závod na obřích žížalách.",
+    "images": []
+  },
+  {
+    "name": "OBŘÍ TUŽKY",
+    "dimensions": null,
+    "price_czk": 500,
+    "price_note": "cena za ks",
+    "description": "Zábavná týmová aktivita na čas – obří tužky.",
+    "images": []
+  },
+  {
+    "name": "DOSTAŇ SE DÁL",
+    "dimensions": null,
+    "price_czk": 500,
+    "price_note": "cena za ks",
+    "description": "Dostaň celý tým na konec trati a nedotkni se země.",
+    "images": []
+  },
+  {
+    "name": "OBŘÍ BOTY",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Závod či hry v obřích botách.",
+    "images": []
+  },
+  {
+    "name": "OBŘÍ BASKETBALOVÝ KOŠ",
+    "dimensions": "1,8 m x 1,5 m",
+    "price_czk": 2600,
+    "description": "Obří basketbalové koše pro týmovou hru.",
+    "images": []
+  },
+  {
+    "name": "UDRŽ MÍČEK",
+    "dimensions": null,
+    "price_czk": 800,
+    "price_note": "cena za ks",
+    "description": "Udržte s týmem míček nad propastí a neupusťte ho.",
+    "images": []
+  },
+  {
+    "name": "PŘEKÁŽKOVÁ DRÁHA",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Chcete zapůjčit překážkovou dráhu? Půjčte si jednu část nebo si sestavte kompletní obří dráhu.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ BRÁNA",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Nafukovací brána k použití v různých závodních nebo soutěžních aktivitách.",
+    "images": []
+  },
+  {
+    "name": "PROLÉZACÍ BRÁNA MINI",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Malá prolézací nafukovací brána pro děti.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ KLADINA",
+    "dimensions": null,
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Nafukovací kladina k různým soutěžním aktivitám.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ SALOON",
+    "dimensions": "6 x 4 m",
+    "price_czk": 6900,
+    "description": "Saloon s terasou a vnitřním prostorem 6 x 2 m.",
+    "images": []
+  },
+  {
+    "name": "NAFUKOVACÍ BÝK (DEKORACE)",
+    "dimensions": "3,5 m vysoký",
+    "price_czk": 4000,
+    "description": "Obří býk vysoký 3,5 m. Vhodný jako dekorace.",
+    "images": []
+  },
+  {
+    "name": "NŮŽKOVÝ STAN 3x3 m",
+    "dimensions": "3 x 3 m",
+    "price_czk": 1000,
+    "price_note": "cena za ks",
+    "description": "Bílé nůžkové rozkládací stany z ocelové konstrukce vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bočnic.",
+    "images": []
+  },
+  {
+    "name": "PIVNÍ SET",
+    "dimensions": null,
+    "price_czk": 300,
+    "price_note": "cena za set",
+    "description": "Dřevený rozkládací stůl a 2 lavice. Vhodné pro akce i zahradní párty.",
+    "images": []
+  },
+  {
+    "name": "NŮŽKOVÝ STAN 6x3 m",
+    "dimensions": "6 x 3 m",
+    "price_czk": 2000,
+    "price_note": "cena za ks",
+    "description": "Bílé nůžkové rozkládací stany z ocelové konstrukce vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bočnic.",
+    "images": []
+  },
+  {
+    "name": "SKLÁDACÍ STŮL",
+    "dimensions": "180 x 76 cm",
+    "price_czk": 300,
+    "price_note": "cena za ks",
+    "description": "Bílé skládací stoly. Vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bílého ubrusu.",
+    "images": []
+  },
+  {
+    "name": "SKLÁDACÍ ŽIDLE",
+    "dimensions": null,
+    "price_czk": 100,
+    "price_note": "cena za ks",
+    "description": "Skládací židle bílé barvy pro univerzální použití.",
+    "images": []
+  },
+  {
+    "name": "BAROVÝ STŮL",
+    "dimensions": "průměr 80 cm",
+    "price_czk": 300,
+    "price_note": "cena za ks",
+    "description": "Bílé skládací barové stoly o průměru 80 cm. Vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bílého ubrusu.",
+    "images": []
+  },
+  {
+    "name": "PÁRTY STAN 10x5",
+    "dimensions": "10 x 5 x 2,8 m",
+    "price_czk": 10900,
+    "price_note": "cena za ks (montáž v ceně)",
+    "description": "Bílý zahradní párty stan o rozměrech 10x5x2,8m včetně průhledných bočnic. Součástí ceny je i montáž.",
+    "images": []
+  },
+  {
+    "name": "REKLAMNÍ OBOUSTRANNÝ STOJAN A1",
+    "dimensions": "A1",
+    "price_czk": 200,
+    "price_note": "cena za ks",
+    "description": "Hliníkový oboustranný reklamní stojan pro plakáty velikosti až do A1. Vhodné pro venkovní i vnitřní použití.",
+    "images": []
+  }
+]

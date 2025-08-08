@@ -1,0 +1,455 @@
+
+{
+  "categories": [
+    {
+      "id": "skakaci-hrady",
+      "name": "Skákací hrady",
+      "description": "Nafukovací skákací hrady pro děti všech věkových kategorií",
+      "products": [
+        {
+          "id": 1,
+          "name": "BAGR SE SKLUZAVKOU",
+          "price": 8900,
+          "image": "Image/Bagr.png",
+          "images": ["Image/Bagr.png"],
+          "description": "Skákací hrad se skluzavkou. Do dojezdové části skluzavky je možné umístit plastové míčky.",
+          "dimensions": "8 x 3 x 4,5 m",
+          "capacity": "8-12 dětí",          "age": "3-12 let",
+          "weight": "120 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        },
+        {
+          "id": 2,
+          "name": "VODNÍ SVĚT SE SKLUZAVKOU",
+          "price": 8900,
+          "image": "Image/Vodni-svet.png",
+          "images": ["Image/vodni-svet.jpg"],
+          "description": "Skákací hrad se skluzavkou na přední části hradu, vedle vstupu. Možnost plastových míčků v dojezdové části.",
+          "dimensions": "7,6 x 4 x 4,5 m",
+          "capacity": "8-12 dětí",
+          "age": "3-12 let",
+          "weight": "110 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        },
+        {
+          "id": 3,
+          "name": "MONSTER TRUCK",
+          "price": 7900,
+          "image": "Image/Moster-truck.png",
+          "images": ["obrazky/Monster-truck.png"],
+          "description": "Nafukovací skákací hrad v podobě Monster Trucku.",
+          "dimensions": "6 x 4 x 4,8 m",
+          "capacity": "6-10 dětí",
+          "age": "3-12 let",
+          "weight": "95 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        },
+        {
+          "id": 4,
+          "name": "NAFUKOVACÍ HRAD PRINCEZNA ELSA",
+          "price": 6900,
+          "image": "obrazky/princezna-elsa.jpg",
+          "images": ["obrazky/princezna-elsa.jpg"],
+          "description": "Skákací hrad pro nejmenší princezny.",
+          "dimensions": "4 x 4 m",
+          "capacity": "4-8 dětí",
+          "age": "2-8 let",
+          "weight": "60 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        },
+        {
+          "id": 5,
+          "name": "PAVOUČÍ MUŽ",
+          "price": 7900,
+          "image": "obrazky/pavouci-muz.jpg",
+          "images": ["obrazky/pavouci-muz.jpg"],
+          "description": "Skákací hrad pro malé superhrdiny.",
+          "dimensions": "5 x 4 m",
+          "capacity": "6-10 dětí",
+          "age": "3-12 let",
+          "weight": "80 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        },
+        {
+          "id": 6,
+          "name": "BÍLÝ HRAD",
+          "price": 7900,
+          "image": "obrazky/bily-hrad.jpg",
+          "images": ["obrazky/bily-hrad.jpg"],
+          "description": "Bílý skákací hrad vhodný na svatbu i jiné akce.",
+          "dimensions": "5 x 5 m",
+          "capacity": "6-10 dětí",
+          "age": "3-12 let",
+          "weight": "85 kg",
+          "category": "skakaci-hrady",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "skluzavky",
+      "name": "Obří skluzavky",
+      "description": "Velké nafukovací skluzavky pro maximální zábavu",
+      "products": [
+        {
+          "id": 7,
+          "name": "SKLUZAVKA KLAUN",
+          "price": 13900,
+          "image": "obrazky/skluzavka-klaun.jpg",
+          "images": ["obrazky/skluzavka-klaun.jpg"],
+          "description": "Dvě obří skluzavky v podobě klauna.",
+          "dimensions": "9 x 7 x 7 m",
+          "capacity": "15-20 dětí",
+          "age": "4-15 let",
+          "weight": "200 kg",
+          "category": "skluzavky",
+          "available": true
+        },
+        {
+          "id": 8,
+          "name": "PIRÁTSKÁ LOĎ SE SKLUZAVKOU",
+          "price": 10900,
+          "image": "obrazky/piratska-lod.jpg",
+          "images": ["obrazky/piratska-lod.jpg"],
+          "description": "Nafukovací skluzavka pro malé piráty.",
+          "dimensions": "7 x 4 m",
+          "capacity": "8-12 dětí",
+          "age": "3-12 let",
+          "weight": "120 kg",
+          "category": "skluzavky",
+          "available": true
+        },
+        {
+          "id": 9,
+          "name": "OBŘÍ KLOUZAČKA",
+          "price": null,
+          "priceNote": "INDIVIDUÁLNÍ CENA",
+          "image": "obrazky/obri-klouzacka.jpg",
+          "images": ["obrazky/obri-klouzacka.jpg"],
+          "description": "Barevná klouzačka s 6ti dráhami. Dopadiště je možné naplnit vodou.",
+          "dimensions": "20 x 11 m",
+          "capacity": "20+ dětí",
+          "age": "5+ let",
+          "weight": "300 kg",
+          "category": "skluzavky",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "aktivni-centrum",
+      "name": "Aktivní centrum",
+      "description": "Interaktivní atrakce a sportovní aktivity",
+      "products": [
+        {
+          "id": 10,
+          "name": "SAFARI PARK",
+          "price": 11900,
+          "image": "obrazky/safari-park.jpg",
+          "images": ["obrazky/safari-park.jpg"],
+          "description": "Nafukovací dráha plná překážek napříč safari.",
+          "dimensions": "11 x 3,3 x 4,5 m",
+          "capacity": "10-15 dětí",
+          "age": "4-15 let",
+          "weight": "180 kg",
+          "category": "aktivni-centrum",
+          "available": true
+        },
+        {
+          "id": 11,
+          "name": "AKTIVNÍ CENTRUM",
+          "price": 6900,
+          "image": "obrazky/aktivni-centrum.jpg",
+          "images": ["obrazky/aktivni-centrum.jpg"],
+          "description": "Baseball, Basketball či Rugby? Zjisti, jak dobrou máš mušku.",
+          "dimensions": "Různé",
+          "capacity": "6-12 dětí",
+          "age": "5+ let",
+          "weight": "50 kg",
+          "category": "aktivni-centrum",
+          "available": true
+        },
+        {
+          "id": 12,
+          "name": "AKTIVNÍ CENTRUM LEDOVÉ KRÁLOVSTVÍ",
+          "price": 7900,
+          "image": "obrazky/ledove-kralovstvi.jpg",
+          "images": ["obrazky/ledove-kralovstvi.jpg"],
+          "description": "Zábava pro malé princezny v nafukovacím ledovém království.",
+          "dimensions": "5 x 5 m",
+          "capacity": "6-10 dětí",
+          "age": "3-10 let",
+          "weight": "85 kg",
+          "category": "aktivni-centrum",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "sportovni-aktivity",
+      "name": "Sportovní aktivity",
+      "description": "Soutěžní a sportovní nafukovací atrakce",
+      "products": [
+        {
+          "id": 13,
+          "name": "GLADIÁTOR ARÉNA",
+          "price": 6900,
+          "image": "obrazky/gladiator-arena.jpg",
+          "images": ["obrazky/gladiator-arena.jpg"],
+          "description": "Utkej se v zápasu se svým protivníkem.",
+          "dimensions": "4 x 5 m",
+          "capacity": "2 účastníci",
+          "age": "8+ let",
+          "weight": "70 kg",
+          "category": "sportovni-aktivity",
+          "available": true
+        },
+        {
+          "id": 14,
+          "name": "HOD SEKEROU",
+          "price": 6900,
+          "image": "obrazky/hod-sekerou.jpg",
+          "images": ["obrazky/hod-sekerou.jpg"],
+          "description": "Který ze dvou hráčů se přiblíží svou trefou nejblíže středu?",
+          "dimensions": "4,8 x 3 x 3,1 m",
+          "capacity": "2-4 hráči",
+          "age": "10+ let",
+          "weight": "60 kg",
+          "category": "sportovni-aktivity",
+          "available": true
+        },
+        {
+          "id": 15,
+          "name": "BUNGEE RUNNING",
+          "price": 8900,
+          "image": "obrazky/bungee-running.jpg",
+          "images": ["obrazky/bungee-running.jpg"],
+          "description": "Utkej se se soupeřem v co nejvzdálenějším běhu. Nebude to jednoduché, protože ti brání odpudivá síla.",
+          "dimensions": "7 x 2,5 m",
+          "capacity": "2 hráči",
+          "age": "12+ let",
+          "weight": "45 kg",
+          "category": "sportovni-aktivity",
+          "available": true
+        },
+        {
+          "id": 16,
+          "name": "NAFUKOVACÍ BILLIARD",
+          "price": 7900,
+          "image": "obrazky/nafukovaci-billiard.jpg",
+          "images": ["obrazky/nafukovaci-billiard.jpg"],
+          "description": "Obří billiard, místo tága použij vlastní nohy.",
+          "dimensions": "7,8 x 4,8 x 0,45 m",
+          "capacity": "4-8 hráčů",
+          "age": "8+ let",
+          "weight": "55 kg",
+          "category": "sportovni-aktivity",
+          "available": true
+        },
+        {
+          "id": 17,
+          "name": "NAFUKOVACÍ ELEKTRICKÝ BÝK",
+          "price": 13900,
+          "image": "obrazky/elektricky-byk.jpg",
+          "images": ["obrazky/elektricky-byk.jpg"],
+          "description": "Bezva rodeo na divokém býkovi, který nezná soucitu. Udrž se co nejdéle.",
+          "dimensions": "5 x 5 m",
+          "capacity": "1 jezdec",
+          "age": "14+ let",
+          "weight": "80 kg",
+          "category": "sportovni-aktivity",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "party-vybaveni",
+      "name": "Párty vybavení",
+      "description": "Stany, stoly, židle a vybavení pro dokonalou akci",
+      "products": [
+        {
+          "id": 18,
+          "name": "PIVNÍ SET",
+          "price": 300,
+          "priceNote": "cena za set",
+          "image": "obrazky/pivni-set.jpg",
+          "images": ["obrazky/pivni-set.jpg"],
+          "description": "Dřevený rozkládací stůl a 2 lavice. Vhodné pro akce i zahradní párty.",
+          "dimensions": "220 x 80 cm",
+          "capacity": "6-8 osob",
+          "age": "Všechny věky",
+          "weight": "25 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 19,
+          "name": "NŮŽKOVÝ STAN 3x3 m",
+          "price": 1000,
+          "priceNote": "cena za ks",
+          "image": "obrazky/stan-3x3.jpg",
+          "images": ["obrazky/stan-3x3.jpg"],
+          "description": "Bílé nůžkové rozkládací stany z ocelové konstrukce vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bočnic.",
+          "dimensions": "3 x 3 m",
+          "capacity": "8-12 osob",
+          "age": "Všechny věky",
+          "weight": "15 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 20,
+          "name": "NŮŽKOVÝ STAN 6x3 m",
+          "price": 2000,
+          "priceNote": "cena za ks",
+          "image": "obrazky/stan-6x3.jpg",
+          "images": ["obrazky/stan-6x3.jpg"],
+          "description": "Bílé nůžkové rozkládací stany z ocelové konstrukce vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bočnic.",
+          "dimensions": "6 x 3 m",
+          "capacity": "15-20 osob",
+          "age": "Všechny věky",
+          "weight": "25 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 21,
+          "name": "PÁRTY STAN 10x5",
+          "price": 10900,
+          "priceNote": "cena za ks (montáž v ceně)",
+          "image": "obrazky/party-stan-10x5.jpg",
+          "images": ["obrazky/party-stan-10x5.jpg"],
+          "description": "Bílý zahradní párty stan o rozměrech 10x5x2,8m včetně průhledných bočnic. Součástí ceny je i montáž.",
+          "dimensions": "10 x 5 x 2,8 m",
+          "capacity": "40-50 osob",
+          "age": "Všechny věky",
+          "weight": "80 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 22,
+          "name": "SKLÁDACÍ STŮL",
+          "price": 300,
+          "priceNote": "cena za ks",
+          "image": "obrazky/skladaci-stul.jpg",
+          "images": ["obrazky/skladaci-stul.jpg"],
+          "description": "Bílé skládací stoly. Vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bílého ubrusu.",
+          "dimensions": "180 x 76 cm",
+          "capacity": "6-8 osob",
+          "age": "Všechny věky",
+          "weight": "12 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 23,
+          "name": "SKLÁDACÍ ŽIDLE",
+          "price": 100,
+          "priceNote": "cena za ks",
+          "image": "obrazky/skladaci-zidle.jpg",
+          "images": ["obrazky/skladaci-zidle.jpg"],
+          "description": "Skládací židle bílé barvy pro univerzální použití.",
+          "dimensions": "Standard",
+          "capacity": "1 osoba",
+          "age": "Všechny věky",
+          "weight": "3 kg",
+          "category": "party-vybaveni",
+          "available": true
+        },
+        {
+          "id": 24,
+          "name": "BAROVÝ STŮL",
+          "price": 300,
+          "priceNote": "cena za ks",
+          "image": "obrazky/barovy-stul.jpg",
+          "images": ["obrazky/barovy-stul.jpg"],
+          "description": "Bílé skládací barové stoly o průměru 80 cm. Vhodné pro venkovní i vnitřní použití. Možnost zapůjčení včetně bílého ubrusu.",
+          "dimensions": "průměr 80 cm",
+          "capacity": "4-6 osob",
+          "age": "Všechny věky",
+          "weight": "8 kg",
+          "category": "party-vybaveni",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "specialni-atrakce",
+      "name": "Speciální atrakce",
+      "description": "Unikátní a exkluzivní nafukovací atrakce",
+      "products": [
+        {
+          "id": 25,
+          "name": "BEZVA RACE",
+          "price": null,
+          "priceNote": "INDIVIDUÁLNÍ CENA",
+          "image": "obrazky/bezva-race.jpg",
+          "images": ["obrazky/bezva-race.jpg"],
+          "description": "Nejdelší nafukovací dráha v ČR, 100metrová dráha, možnost i zkrácené verze (dráha má několik dílů).",
+          "dimensions": "100 m",
+          "capacity": "20+ účastníků",
+          "age": "6+ let",
+          "weight": "500+ kg",
+          "category": "specialni-atrakce",
+          "available": true
+        },
+        {
+          "id": 26,
+          "name": "VÍTĚZNÝ OBLUK START - CÍL",
+          "price": 14900,
+          "image": "obrazky/vitezny-obluk.jpg",
+          "images": ["obrazky/vitezny-obluk.jpg"],
+          "description": "Nafukovací oblouk start - cíl. Možnost naplnění oblouku pěnou.",
+          "dimensions": "15 x 6 x 5 m",
+          "capacity": "Neomezeno",
+          "age": "Všechny věky",
+          "weight": "120 kg",
+          "category": "specialni-atrakce",
+          "available": true
+        },
+        {
+          "id": 27,
+          "name": "NAFUKOVACÍ SALOON",
+          "price": 6900,
+          "image": "obrazky/nafukovaci-saloon.jpg",
+          "images": ["obrazky/nafukovaci-saloon.jpg"],
+          "description": "Saloon s terasou a vnitřním prostorem 6 x 2 m.",
+          "dimensions": "6 x 4 m",
+          "capacity": "15-20 osob",
+          "age": "Všechny věky",
+          "weight": "90 kg",
+          "category": "specialni-atrakce",
+          "available": true
+        },
+        {
+          "id": 28,
+          "name": "NAFUKOVACÍ BÝK (DEKORACE)",
+          "price": 4000,
+          "image": "obrazky/nafukovaci-byk-dekorace.jpg",
+          "images": ["obrazky/nafukovaci-byk-dekorace.jpg"],
+          "description": "Obří býk vysoký 3,5 m. Vhodný jako dekorace.",
+          "dimensions": "3,5 m vysoký",
+          "capacity": "Dekorace",
+          "age": "Všechny věky",
+          "weight": "25 kg",
+          "category": "specialni-atrakce",
+          "available": true
+        }
+      ]
+    }
+  ]
+}
+
+Poznámky:
+- Pokud některé obrázky zatím nemáš, přidej do projektu placeholder a použij jeho cestu.
+- Soubor ulož jako UTF-8 bez BOM.
+- V Products.js používej fetch('Products.json') nebo './Products.json'.
+
+Citace:
+[1] Screenshot_2025-08-07-20-57-22-535_com.foxdebug.acodefree.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/47414876/0f902fe4-93f1-4f3c-8b5b-76e3abaecf4e/Screenshot_2025-08-07-20-57-22-535_com.foxdebug.acodefree.jpg
